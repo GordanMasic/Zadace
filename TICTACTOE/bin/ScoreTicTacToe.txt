@@ -1,0 +1,9 @@
+SCORES OF TIC TAC TOE GAME
+
+Games played: 1
+
+Player X has won: 0 times
+
+Player O has won: 1 times
+
+Game was draw 0 times
