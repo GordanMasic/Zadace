@@ -1,0 +1,25 @@
+Task No. 2
+
+Napisati klasu koja opisuje èašu. Èaša prima samo jednu vrstu teènosti. Dati objekat opisuju tri atributa, vrsta 
+
+teènosti, kolièinu teènosti i maksimalnu kolièinu teènosti.
+
+	Napisati konstruktor koji inicijalizira kolièinu na 0, vrstu na null i max. kolièinu na datu vrijednost
+
+	Napisati metodu getTypeOfLiquid() koja vraæa tip teènosti koji se nalazi u èaši
+
+	Napisati metodu getMaxCapacity() koja vraæa maksimalni kapacitet èaše
+
+	Napisati metodu getCurrentCapacity() koja vraæa trenutni kapacitet èaše
+
+	Napisati metodu addLiquid(String, int) koja dodaje neku kolièinu nekog tipa teènosti u èašu
+
+		o Ukoliko èaša sadrži teènost koja nije kao data onda ništa ne raditi
+
+		o Ukoliko èaša sadrži teènost koja je i data onda poveæati za datu kolièinu
+
+		Svaki višak teènosti se „prelije“ i trenutni kapacitet bude isti kao i maksimalni
+
+Napisati metodu emptyGlass() koja „prospe“ svu teènost iz èaše 
+
+Napisati javadoc za sve metode
